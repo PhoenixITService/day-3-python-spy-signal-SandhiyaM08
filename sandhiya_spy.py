@@ -1,5 +1,5 @@
 #getting inputs
-values=input("Enter number:").split(' ')
+values=input().split(' ')
 #getting the every third character
 third_character=(values[1::3])
 #reverse
